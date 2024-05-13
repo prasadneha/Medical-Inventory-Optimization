@@ -6,18 +6,18 @@ Summary of Approach: The project encompasses two core phases: data pre-processin
 
 Key Insights:
 
-Data cleansing resulted in more consistent distributions, pivotal for precise decision-making.
-Analysis unveiled a notable 24.9% bounce rate, indicating substantial customer discontent.
-Certain subcategories such as "INJECTIONS" and "TABLETS & CAPSULES," along with the "Form1" formulation, exhibited heightened return frequencies.
-Observations of seasonal fluctuations in hospital operations highlighted varying revenue and demand patterns across different months.
+1. Data cleansing fosters more robust distributions, pivotal for precision in decision-making processes.
+2. Analysis unveils a notable 24.9% bounce rate, indicative of considerable customer discontent.
+3. Certain subcategories such as "INJECTIONS" and "TABLETS & CAPSULES," along with the "Form1" formulation, emerge with elevated return counts.
+4. Observations pinpoint seasonal fluctuations in hospital operations, influencing revenue streams and demand across different months.
 
 Recommendations:
 
-Thorough scrutiny of "INJECTIONS" and "TABLETS & CAPSULES" subcategories to pinpoint and rectify factors contributing to elevated return rates.
-Comprehensive evaluation of the "Form1" formulation to explore enhancements or alternative options.
-Assessment and potential reevaluation of suppliers, particularly those associated with Department1 and the "Form1" formulation.
-Streamlined inventory management within Department1 to optimize stock levels and curtail returns.
-Introduction of effective return management protocols in Department1.
-Adoption of specialization-specific tactics, especially within Specialization4 and Specialization7, to address heightened return rates.
-Strategic allocation of resources in accordance with seasonal demands to optimize operational efficiency during peak and off-peak periods.
-By adhering to these recommendations and addressing identified areas of concern, the project endeavors to significantly diminish bounce rates, enhance customer satisfaction, and elevate the overall performance and revenue of the hospital.
+1. Conduct an exhaustive scrutiny of subcategories like "INJECTIONS" and "TABLETS & CAPSULES" to unearth and rectify factors driving high return rates.
+2. Undertake a comprehensive evaluation of the "Form1" formulation for potential enhancements or alternative solutions.
+3. Assess and, if necessary, reconsider suppliers, particularly those tied to Department1 and the "Form1" formulation.
+4. Bolster inventory management protocols within Department1 to optimize stock levels and curtail returns.
+5. Establish streamlined return management mechanisms within Department1.
+6. Deploy specialization-specific tactics, particularly in Specialisation4 and Specialisation7, to tackle heightened return rates.
+7. Strategically allocate resources seasonally to optimize operational efficiency and resource utilization during peak and off-peak periods.
+By implementing these stratagems and honing in on identified pain points, the project endeavors to markedly diminish bounce rates, elevate customer contentment, and augment the overall performance and revenue of the hospital.
